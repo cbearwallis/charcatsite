@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Chartreuse Cactus
+description: Making Modern Analog Games
+github:
+  is_project_page: false
